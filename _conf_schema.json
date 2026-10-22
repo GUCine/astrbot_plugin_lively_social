@@ -1,0 +1,12 @@
+{
+  "groups": {
+    "description": "服務的群（留空用門禁插件裡填的）",
+    "type": "list",
+    "default": []
+  },
+  "owner_qq": {
+    "description": "主人 QQ（留空用門禁插件裡填的）",
+    "type": "list",
+    "default": []
+  }
+}

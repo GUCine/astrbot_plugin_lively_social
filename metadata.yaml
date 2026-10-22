@@ -1,9 +1,14 @@
 name: astrbot_plugin_lively_social
 display_name: 好友與群邀請管家
 desc: 好友申請、群邀請、禁言踢出通知，熟人自動通過，其餘私信主人決定
+short_desc: 處理好友申請和群邀請，熟人自動通過，其餘問主人
 version: 2.0.0
 author: GUCine
 repo: https://github.com/GUCine/astrbot_plugin_lively_social
 support_platforms:
   - aiocqhttp
 astrbot_version: ">=4.29.0"
+tags:
+  - 好友申請
+  - 群邀請
+  - lively
